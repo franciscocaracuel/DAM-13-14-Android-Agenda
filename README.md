@@ -1,2 +1,12 @@
-# DAM-13-14-Android-Agenda
-Aplicación de una Agenda para Android realizada en el Grado Superior DAM en el curso 2013/2014
+# Agenda Android
+
+Práctica de una agenda para Android realizada en la asignatura ACDAT del Grado Superior DAM en el curso 2013/2014, I.E.S. Zaidín-Vergeles.
+
+
+## Autor
+
+Francisco Javier Caracuel Beltrán
+
+fjcb312@gmail.com
+
+GNU General Public License v3.0
