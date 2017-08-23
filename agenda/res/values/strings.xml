@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Agenda</string>
+    <string name="title_activity_anadir_contacto">Añadir contacto</string>
+    
+    <string name="action_llamar">LLamar</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_nombre">Francisco Javier Caracuel Beltrán</string>
+    
+    <string name="descripcion_contacto">Imagen por defecto</string>
+    <string name="descripcion_opcion">Opcion del contacto</string>
+    <string name="descripcion_borrar">Borra el contacto</string>
+    <string name="descripcion_llamar">Llama al contacto</string>
+    <string name="descripcion_gmail">Envia un correo al contacto</string>
+    <string name="descripcion_sms">Envia un sms al contacto</string>
+    
+    <string name="bt_anadir">Añadir contacto</string>
+    <string name="bt_anadir2">Añadir</string>
+    <string name="bt_actualizar">Actualizar</string>
+    <string name="bt_cancelar">Cancelar</string>
+    
+    <string name="hint_et_nombre">Nombre&#8230;</string>
+    <string name="hint_et_telefono">Teléfono&#8230;</string>
+    <string name="hint_et_email">Email&#8230;</string>
+    
+    <string name="info_contacto_añadido">Contacto añadido</string>
+    <string name="info_contacto_no_añadido">Contacto no añadido</string>
+    <string name="info_contacto_existe">Contacto existente</string>
+    <string name="info_contacto_invalido">Datos incorrectos</string>
+    <string name="info_contacto_editado">Contacto editado</string>
+    <string name="info_contacto_no_editado">Contacto no editado</string>
+    <string name="info_contacto_eliminado">Contacto eliminado</string>
+    <string name="info_no_email">Guarde el email</string>
+    
+    <string name="dialogo_mensaje_borrar_texto">¿Desea eliminar el contacto?</string>  
+    <string name="dialogo_mensaje_ok">OK</string>  
+    <string name="dialogo_mensaje_cancelar">Cancelar</string>  
+    <string name="dialogo_mensaje_seleccionar_imagen">Seleccione una opción</string>  
+    <string name="dialogo_mensaje_camara">Cámara</string>  
+    <string name="dialogo_mensaje_galeria">Galería</string> 
+    
+    <string name="error_cargar_imagen">No se puede cargar la imagen</string> 
+    
+</resources>
